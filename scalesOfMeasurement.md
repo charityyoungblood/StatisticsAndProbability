@@ -7,7 +7,7 @@ There are four different scales of measurement from LEAST precise to MOST precis
 1. Nominal: (think of definition of Nominal - "small")
   - this is the LEAST precise measure of data 
   - it only indicates DIFFERENCES 
-  - Nominal level data uses discrete categories to describe qualitative/categorical (data you can operate on) 
+  - Nominal level data uses DISCRETE CATEGORIES to describe qualitative/categorical data (data you can operate on) 
   - Examples of Nominal Data: 
         - Types of Shoes - Booties, Sandals, Flats, Pumps, Boots
         - Eye Color 
@@ -33,7 +33,7 @@ There are four different scales of measurement from LEAST precise to MOST precis
 
 4. Ratio: 
   - this level of data is MOST precise 
-  - in Ratio Level, a number is assigned to a subject that represents the AMOUNT of the attribute that the subject has and the difference between consecutive numbers is assumed to be equal 
+  - in Ratio Level, a number is assigned to a subject that represents the AMOUNT of the ATTRIBUTE/CHARACTERISTIC that the subject has and the difference between consecutive numbers is assumed to be equal 
   - it has ALL of the characteristics of Interval Data, plus a meaningful zero point 
   - For ratio measures, the "zero" tells us that the attribute or "variable" is NOT present in the participant/individual
   - The distance between pairs of "consecutive" numbers is assumed to be equal 
