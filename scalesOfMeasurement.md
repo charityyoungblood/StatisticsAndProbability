@@ -26,6 +26,87 @@ There are four different scales of measurement from LEAST precise to MOST precis
 3. Interval: 
   - Builds upon the characteristics of Ordinal Data through the addition of meaningful differences between two numbers 
   - The distance between pairs of "consecutive" numbers is assumed to be equal 
-  - Interval variables do NOT have a meaningful zero point - A "0" does NOT mean the ABSENCE of an attribute 
+  - Interval variables do NOT have a meaningful zero point - A "0" does NOT mean the ABSENCE of an attribute, it refers to a particular, but arbitrary point on the scale 
+  - Examples of Interval Data:
+        - Temperature
+        - SAT Scores 
 
 4. Ratio: 
+  - this level of data is MOST precise 
+  - it has ALL of the characteristics of Interval Data, plus a meaningful zero point 
+  - The distance between pairs of "consecutive" numbers is assumed to be equal 
+  - Examples of Ratio Data:
+        - Age - it is possible to have the "absence" of age 
+        - Height 
+        - Weight 
+
+## IMPORTANT ############################
+
+- It is important to know that MORE PRECISE data can ALWAYS be SCALED DOWN to LESS PRECISE data
+
+  Ex: A Ratio level variable like "Age" can be scaled down into an Ordinal level variable of "Age Groups"
+    Ratio Level: Age in years - 3, 20, 15, 85, etc
+    Ordinal Level: Age Groups - Toddler, Young Adult, Adolescent, Senior)
+    
+- LESS PRECISE data CANNOT be made into MORE PRECISE data, i.e. an Ordinal Level variable like Age Groups, CANNOT be changed into a Ratio Level variable like Age in years 
+
+## So, why is it imoprtant to understand Scales of Measurement? ## 
+
+- Statistical methods are ways of SUMMARIZING, ANALYZING, and INTERPRETING data and are designed for SPECIFIC TYPES of data 
+
+- Researchers need to know the LEVEL OF MEASUREMENT of their data when SELECTING a STATISTICAL METHOD, since using an incorrect method for ANALYZING data can affect the reliability and accuracy of the results 
+
+- Keep these levels in mind, whenever you are analyzing data 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
