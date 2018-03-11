@@ -31,9 +31,11 @@ There are four different scales of measurement from LEAST precise to MOST precis
         - Temperature
         - SAT Scores 
 
-4. Ratio: (think of definition of Ratio: "a relationship between two numbers indicating how many times the first number contains the second")
+4. Ratio: 
   - this level of data is MOST precise 
+  - in Ratio Level, a number is assigned to a subject that represents the AMOUNT of the attribute that the subject has and the difference between consecutive numbers is assumed to be equal 
   - it has ALL of the characteristics of Interval Data, plus a meaningful zero point 
+  - For ratio measures, the "zero" tells us that the attribute or "variable" is NOT present in the participant/individual
   - The distance between pairs of "consecutive" numbers is assumed to be equal 
   - Examples of Ratio Data:
         - Age - it is possible to have the "absence" of age 
