@@ -1,5 +1,7 @@
 <!-- Intro To Statistics -->
 
+Statistics is the process in which we collect data, summarize data and interpret data
+
 ## Step 1: Producing Data ## 
 
 1. Population: 
@@ -11,6 +13,8 @@
   - A sample is a "subgroup" of the population 
   - When choosing a sample, we want to be sure the sample represents the population well
   - The process of choosing a sample and collecting data from it, is called "producing data" and it is Step 1 
+  
+3. Collect Data
 
 ## Step 2: Exploratory Data Analysis ##
 
