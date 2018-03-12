@@ -7,7 +7,7 @@ There are four different scales of measurement from LEAST precise to MOST precis
 1. Nominal: (think of definition of Nominal - "small")
   - this is the LEAST precise measure of data 
   - it only indicates DIFFERENCES 
-  - Nominal level data uses DISCRETE CATEGORIES to describe qualitative/categorical data (data you can operate on) 
+  - Nominal level data uses DISCRETE CATEGORIES to describe qualitative/categorical data 
   - Examples of Nominal Data: 
         - Types of Shoes - Booties, Sandals, Flats, Pumps, Boots
         - Eye Color 
@@ -24,7 +24,7 @@ There are four different scales of measurement from LEAST precise to MOST precis
         - Order of finishes in a race (1st place, 2nd place)
 
 3. Interval: (think of definition of Interval - "a SPACE BETWEEN two objects")
-  - Builds upon the characteristics of Ordinal Data through the addition of meaningful differences between two numbers 
+  - Builds upon the characteristics of Ordinal Data through the addition of MEANINGFUL DIFFERENCES between two numbers 
   - The distance between pairs of "consecutive" numbers is assumed to be equal 
   - Interval variables do NOT have a meaningful zero point - A "0" does NOT mean the ABSENCE of an attribute, it refers to a particular, but arbitrary point on the scale 
   - Examples of Interval Data:
