@@ -9,17 +9,17 @@
    
 3. Frequency Distributions 
   - In a "frequency distribution" we are looking at the "frequency" of certain categories 
-  - For this example study, we asked 1200 women: Where do you carry the majority of your weight? Upper body, lower body, middle or balanced
+  - For this example study, we asked 1200 women: Where do you carry the majority of your weight? Upper body, lower body, or balanced
   - The CATEGORICAL VARIABLE we are examining is "Body Type" 
-  - These are our categories: upper body, lower body, middle, balanced
+  - These are our categories: upper body, lower body, balanced
   - From this data, we can create a "Frequency Distribution" table 
     - The table will consist of: 
       ## The different values (categories) the variable takes 
       ## How many times each value occurs (count)
       ## How often each value occurs (by converting count to percentage)
       
-        Category	  Count	   Percent
-        About right	   855	  
-        Overweight	235	
-        Underweight	110	
-        Total	n=1200	100%
+        Category	       Count	      Percent
+        Balanced	        855	          855/1200 = 71.3%
+        Upper Body	        235	          235/1200 = 19.6%
+        Lower Body	        110	          110/1200 = 9.2%
+        Total	           n=1200	       100%
