@@ -35,6 +35,13 @@
   - Skewed distributions can be "bimodal" 
   - If a distribution has more than two modes, we say that distribution is multimodal 
   
+10. Center
+  - The center of the distribution is it's midpoint, this is the value that divides the distribution so that approximately half of the observations take smaller values and approximately half of the distributions take larger values 
+  
+11. Spread (also called variability)
+  - The "Spread" can be described by the approximate range covered by the data
+  - From looking at the Histogram we can approximate the smallest observation (min) and the largest observation (max), 
+  
   
   
   
