@@ -51,7 +51,7 @@
   - Displays categorical variables in "bins" 
   - Histograms are used to display QUANTITATIVE variables 
   - When using a Histogram, some information is LOST - we have INTERVALS not EXACT numbers (scores)
-  - To CONSTRUCT a Histogram - plot the INTERVALS on the X-AXIS, and show the NUMBER OF OBSERVATIONS in each interval (frequency of the interval) on the Y-AXIS
+  - To CONSTRUCT a Histogram - plot the INTERVAL VALUES on the X-AXIS, and show the NUMBER OF OBSERVATIONS/COUNT in each interval (frequency of the interval) on the Y-AXIS
   - To create a relative frequency table from Histogram data (Full Description in Stanford Stats Course - in One Quantitative Variable - Graps > Histogram: Intervals)
     - Calculate the total number of observations (total count) 
     - Calculate the relative frequency for each interval, by dividing the number of observations in each row by the total number of observations
