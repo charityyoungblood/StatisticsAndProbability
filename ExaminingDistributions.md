@@ -27,6 +27,8 @@
         Lower Body	        110	          110/1200 = 9.2%
         Total	           n=1200	       100%
         
+## Pie Charts, Bar Charts and Pictograms are used to display QUALITATIVE DATA ##        
+
 4. Pie and Bar Charts 
   - There are two simple graphical displays for visualizing the distribution of categorical data 
     - The Pie Chart: emphasizes how the different categories relate to the whole
@@ -35,7 +37,12 @@
 5. Pictogram: a variation on pie charts and bar charts 
   - Pictograms CAN be misleading - make sure to use a critical approach when interpreting the information the Pictogram is trying to convey 
   
-  
+6. Describing Your Results: 
+  - Once you have created your table, describe your results in "human speak" as follows for our "friends" dataset 
+    - Describe the distribution of the variable "friends" in context:
+      The students are NOT divided equally among the three categories. About 50% of the students find it as easy to make friends with the opposite sex as with the same sex. Among the remaining 50% of the students, the majority (36.2%) find it easier to make friends with people of the opposite sex, and the remainder (13.7%) find it easier to make friends with people of their own sex.
+      
+## Histogram, Stemplot and Boxplot are used to display QUANTITATIVE DATA ## 
   
   
   
