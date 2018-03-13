@@ -21,3 +21,56 @@
   - A distribution with two peaks is called "bimodal"
   - A flat distribution is called "uniform" - this is a distribution that has NO modes or no value(s) where the observations are concentrated 
   
+7. Skewed Right Distributions 
+  - In "Skewed Right" distributions the "right tail" or LARGER VALUES is much longer than the left tail (SMALLER VALUES)
+  - In this type of shape, the bulk of the observations are "small/medium" with a few observations that are much larger than the rest 
+  - An example of a real-life variable that has a "skewed right" distribution is Salary 
+
+8. Skewed Left Distributions 
+  - This is a shape where the left tail (SMALLER VALUES) is much longer than the right tail (LARGER VALUES)
+  - In a "skewed left" distribution, the bulk of the observations are medium/large, with a few observations that are much smaller than the rest 
+  - An example of a real-life variable that has a "skewed left" distribution is age of death from natural causes 
+  
+9. Exceptions 
+  - Skewed distributions can be "bimodal" 
+  - If a distribution has more than two modes, we say that distribution is multimodal 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
