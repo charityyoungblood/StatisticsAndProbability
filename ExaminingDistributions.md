@@ -6,7 +6,10 @@
   ## Distribution of a value refers to:
    ## WHAT values does the variable take 
    ## HOW often the variable takes those values 
-   
+  - The DISTRIBUTION of a categorical variable is summarized using:
+    - Graphical display: pie chart, bar chart
+    - Numerical summaries: the Graphical displays are supplemented by Numerical summaries, which are category counts and percentages 
+    
 3. Frequency Distributions 
   - In a "frequency distribution" we are looking at the "frequency" of certain categories 
   - For this example study, we asked 1200 women: Where do you carry the majority of your weight? Upper body, lower body, or balanced
@@ -29,5 +32,17 @@
     - The Pie Chart: emphasizes how the different categories relate to the whole
     - The Bar Chart (displayed with a "count" or "percentage" axis): emphasizes how the different categories compare with each other 
     
-
+5. Pictogram: a variation on pie charts and bar charts 
+  - Pictograms CAN be misleading - make sure to use a critical approach when interpreting the information the Pictogram is trying to convey 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
