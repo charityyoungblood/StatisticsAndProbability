@@ -28,3 +28,4 @@
   - Here you can modify Pie Chart Labels, with the following commands:
     - pf = round(percent,1);pf >> this rounds our values to 1 decimal place
     - lbl = paste(c("No difference","Opposite sex","Same sex"),pf,"%",sep=" ");lbl >> the ensures our labels will include category names and percent for each section of the pie chart 
+    - pie(t,label=lbl) >> this creates the updated pie chart 
