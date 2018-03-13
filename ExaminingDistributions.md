@@ -52,11 +52,46 @@
   - Histograms are used to display QUANTITATIVE variables 
   - To create a relative frequency table from Histogram data (Full Description in Stanford Stats Course - in One Quantitative Variable - Graps > Histogram: Intervals)
     - Calculate the total number of observations (total count) 
-    - Calculate the relative frequency for each interval, by dividing the number of observations in each row by the total number of observations 
-    
-9. Calculating Missing Data 
+    - Calculate the relative frequency for each interval, by dividing the number of observations in each row by the total number of observations
+  
+9. Interpreting Relative Frequency Table Data
+  - A relative frequency table can be used to determine the frequency of scores occuring at or across intervals
+  - Example: 
+  
+      Exam Grades
+      
+       Score	     Count      Relative Frequency (this is calculated by dividing "count" by the "total")
+      [40-50]	       1             0.07
+      [50-60]	       2             0.13
+      [60-70]	       4             0.27
+      [70-80]	       5             0.33
+      [80-90]	       2             0.13
+      [90-100]	       1             0.07
+       Total           15
+  
+ ## Calculating Missing Data ##  
   - It is possible to determine the number of scores (observation count) for an interval, if you have the total number of observations and the relative frequency for that interval 
   - For instance, if we know that we have 15 scores (or observations) and the relative frequency is 0.13, we can determine the number of scores by multiplying the total number of observations by the relative frequency and rounding up to the next whole number: 15 * 0.13 = 1.95, which rounds up to 2 observations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
