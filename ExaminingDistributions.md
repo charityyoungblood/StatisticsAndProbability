@@ -23,3 +23,11 @@
         Upper Body	        235	          235/1200 = 19.6%
         Lower Body	        110	          110/1200 = 9.2%
         Total	           n=1200	       100%
+        
+4. Pie and Bar Charts 
+  - There are two simple graphical displays for visualizing the distribution of categorical data 
+    - The Pie Chart: emphasizes how the different categories relate to the whole
+    - The Bar Chart (displayed with a "count" or "percentage" axis): emphasizes how the different categories compare with each other 
+    
+
+  
