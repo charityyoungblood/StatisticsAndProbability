@@ -50,6 +50,8 @@
   - similar to a bar chart - a histogram is a way to display counts of data
   - Displays categorical variables in "bins" 
   - Histograms are used to display QUANTITATIVE variables 
+  - When using a Histogram, some information is LOST - we have INTERVALS not EXACT numbers (scores)
+  - To CONSTRUCT a Histogram - plot the INTERVALS on the X-AXIS, and show the NUMBER OF OBSERVATIONS in each interval (frequency of the interval) on the Y-AXIS
   - To create a relative frequency table from Histogram data (Full Description in Stanford Stats Course - in One Quantitative Variable - Graps > Histogram: Intervals)
     - Calculate the total number of observations (total count) 
     - Calculate the relative frequency for each interval, by dividing the number of observations in each row by the total number of observations
@@ -81,6 +83,11 @@
   ## What is the percentage of exam scores that are at least 70? To determine the answer, we need to:
     - Add together the relative frequencies for the intervals that have scores of at least 70 or above. Thus, would need to add together the relative frequencies from [70-80), [80-90), and [90-100] = 0.33 + 0.13 + 0.07 = 0.53.
     - To get the percentage, need to multiple the calculated relative frequency by 100. In this case, it would be 0.53 * 100 = 53 or 53%.
+    
+10. When Setting Up Intervals
+  - It is IMPORTANT that EACH OBSERVATION (score in the above example) be counted in only ONE interval
+  - The syntax [40-50), [50-60), where there is a SQUARE BRACKET at the beginning, and a PARENTHESIS at the end, means "the interval from 40 to 50, including 40 NOT including 50, etc
+  - You can set up your intervals however you want, but you have to be CONSISTENT 
 
 
 
