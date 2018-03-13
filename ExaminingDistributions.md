@@ -72,6 +72,15 @@
  ## Calculating Missing Data ##  
   - It is possible to determine the number of scores (observation count) for an interval, if you have the total number of observations and the relative frequency for that interval 
   - For instance, if we know that we have 15 scores (or observations) and the relative frequency is 0.13, we can determine the number of scores by multiplying the total number of observations by the relative frequency and rounding up to the next whole number: 15 * 0.13 = 1.95, which rounds up to 2 observations.
+  
+- A relative frequency table, like the one above, can be used to determine the frequency of scores occurring at or across intervals. Here are some examples, using the above frequency table:
+
+  ## What is the percentage of exam scores that were 70 and up to, but not including, 80?
+    - To determine the answer, we look at the relative frequency associated with the [70-80) interval. The relative frequency is 0.33; to convert to percentage, multiply by 100 (0.33 * 100 = 33) or 33%.
+
+  ## What is the percentage of exam scores that are at least 70? To determine the answer, we need to:
+    - Add together the relative frequencies for the intervals that have scores of at least 70 or above. Thus, would need to add together the relative frequencies from [70-80), [80-90), and [90-100] = 0.33 + 0.13 + 0.07 = 0.53.
+    - To get the percentage, need to multiple the calculated relative frequency by 100. In this case, it would be 0.53 * 100 = 53 or 53%.
 
 
 
