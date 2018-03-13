@@ -2,7 +2,7 @@
 
 1. Since the data for each variable is a long list of values (whether qualitative or quantitative), is not very informative in "raw data" form 
 
-2. To convert our "raw data" into useful information, we need to summarize and then examine the distribution of the variable
+2. To convert our "raw data" into useful information, we need to summarize and then examine the distribution of the categorical (qualitative) variable
   ## Distribution of a value refers to:
    ## WHAT values does the variable take 
    ## HOW often the variable takes those values 
@@ -43,7 +43,17 @@
       The students are NOT divided equally among the three categories. About 50% of the students find it as easy to make friends with the opposite sex as with the same sex. Among the remaining 50% of the students, the majority (36.2%) find it easier to make friends with people of the opposite sex, and the remainder (13.7%) find it easier to make friends with people of their own sex.
       
 ## Histogram, Stemplot and Boxplot are used to display QUANTITATIVE DATA ## 
-  
+
+7. To convert our "raw data" for our QUANTITATIVE variables into useful information, we need to summarize and then examine the distribution of the QUANTITATIVE variable 
+
+8. Histogram: 
+  - similar to a bar chart - a histogram is a way to display counts of data
+  - Displays categorical variables in "bins" 
+  - Histograms are used to display QUANTITATIVE variables 
+  - To create a relative frequency table from Histogram data
+    - Calculate the total number of observations (total count) 
+    - Calculate the relative frequency for each interval, by dividing the number of observations in each row by the total number of observations 
+    
   
   
   
