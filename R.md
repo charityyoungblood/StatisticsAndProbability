@@ -36,7 +36,7 @@
   - To add an X-axis label (label for Interval values) and remove the title of the histogram, use the following code:
       hist(DataFrameName$ColumnTitle, xlab="HistogramTitle", main="")
   - To modify the X-axis and Y-axis label and the title use the following code:
-      hist(DataFrameName$ColumnTitle, xlab="Age of Best Actor Oscar Winners (1970-2013)", ylab="Number of Actors", main="Best Actor Oscar Winners Ages")
+      hist(DataFrameName$ColumnTitle, xlab="Age of Best Actor Oscar Winners (1970-2013)", ylab="Number of Actors", main="NewTitle")
 
 
 
