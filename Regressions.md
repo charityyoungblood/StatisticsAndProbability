@@ -1,8 +1,8 @@
 <!-- Types of Regressions --> 
 
-1. Linear Regression 
+1. Linear Regression - is a "trend" line that best fits your data 
   - Simple Linear Regression
-    Formula: y = b0 + b1 * x1 (where the 0 and 1's are below the variable - not multiplied by the variable)
+    Formula: y = b0 + b1 * x1 (where the 0 and 1's are subscripts - not multiplied by the variable)
       
       y: the "dependent variable" - a dependent variable is the object/subject etc. you are trying to "explain" that is "dependent" on another  
         - an example of a dependent variable could be "how does a person's salary change with experience"
@@ -23,7 +23,7 @@
     y: dependent variable 
     x: independent variables - you use this if you think there may be additional "reasons" for the dependent variable 
     
-## Breakdown of Linear Regression Graph ## 
+## Breakdown of Linear Regression Trend Line ## 
   - Salary will be our Y-Axis (Count)
   - Experience is our X-Axis (Variable)
   - The problem: We want to understand how people's salary depends on their experience 
@@ -35,7 +35,8 @@
   - b1, in our example, is the "slope" of the line
     - The "steeper" the line, the more money you get per year of experience 
     - For example, if someone went from four to five years of experience 
-      - To see how the salary would "increase" you have to project the coefficient onto the line, using the points along the line, and project that onto the salary (Y-Axis) 
+      - To see how the salary would "increase" you have to project the coefficient onto the line, using the points along the line (Y-Axis) 
+      - 
   
    
   
