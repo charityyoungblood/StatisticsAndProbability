@@ -40,7 +40,7 @@
   
 11. Spread (also called variability)
   - The "Spread" can be described by the approximate range covered by the data
-  - From looking at the Histogram we can approximate the smallest observation (min) and the largest observation (max), 
+  - From looking at the Histogram we can approximate the smallest observation (min) and the largest observation (max), and thus approximate the range 
   
   
   
