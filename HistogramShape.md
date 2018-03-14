@@ -17,7 +17,7 @@
   - Modality or Peak - the number of peaks (modes) the distribution has 
   
 6. Symmetric Distributions 
-  - - Most distributions in practice have one peak and are described as "unimodal" 
+  - Most distributions in practice have one peak and are described as "unimodal" 
   - A distribution with two peaks is called "bimodal"
   - A flat distribution is called "uniform" - this is a distribution that has NO modes or no value(s) where the observations are concentrated 
   
@@ -39,8 +39,9 @@
   - The center of the distribution is it's midpoint, this is the value that divides the distribution so that approximately half of the observations take smaller values and approximately half of the distributions take larger values 
   
 11. Spread (also called variability)
-  - The "Spread" can be described by the approximate range covered by the data
+  - The "Spread" can be described by the approximate range (range is the distance between the lowest and highest values) covered by the data
   - From looking at the Histogram we can approximate the smallest observation (min) and the largest observation (max), and thus approximate the range 
+  - To calculate the range we subtract the "max" and "min" values 
   
   
   
