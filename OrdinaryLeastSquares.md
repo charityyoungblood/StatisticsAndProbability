@@ -80,11 +80,11 @@ How does the Simple Linear Regression FIND the "Trend" line? By Using the Ordina
   - Adjusted R Squared has a penalization factor: it penalizes you for ADDING indpendent variables that DON'T help your model 
   - Analyzing the formula 
     - Since p is in the denominator, when p INCREASES, the DENOMINATOR VALUE DECREASES 
-    - When the denominatory DECREASES the ratio INCREASES (inversely proportional)
+    - When the denominator DECREASES the ratio INCREASES (inversely proportional)
     - When the ratio INCREASES the (1 - R^2) portion of the formula ALSO INCREASES 
-    - When the (1 - R^2) portion of the formula INCREASES and is subtracted from 1 (first part of formula), DECREASES 
+    - When the (1 - R^2) portion of the formula INCREASES and is subtracted from 1 (first part of formula), Adjusted R Squared DECREASES 
     - The above all means that the Adjusted R Squared value is DECREASING, going further away from 1
-
+    - When regular R Squared INCREASES, the 1 - R^2 portion DECREASES
 
 
 
