@@ -46,8 +46,46 @@ How does the Simple Linear Regression FIND the "Trend" line? By Using the Ordina
 5. Calculate the distance/difference between the OBSERVED data and AVERAGE, then square the values 
     SUM((yi - yavg)^2)
     
-6. R Squared 
+6. R Squared
+  - R Squared is equal to 1 minus the Sum of Squares of Residuals divided by the Total Sum of Squares 
     R^2 = 1 - (SSres / SStot)
+  - R Squared is telling us "how GOOD our Simple Linear Regression Model (Trend Line) is COMPARED to the AVERAGE line" 
+  - The closer R Squared is to 1, the better - R Squared should NEVER be more than 1 
+  - Interpretation: Since there will always be a total sum of squares, i.e. the sum of squares will always be "some value" 
+    - What you are trying to do with your regression, is fit a line to minimize the Sum of Squares of Residuals 
+    - The average line is also a type of "Trend Line" - think of this as a "model" that is fit to your data set, NOT the slope, but still a type of "Trend Line" 
+
+## Adjusted R Squared ## 
+
+1. REMEMBER: the closer your R Squared value is to "1" the better 
+  - Your value will be between 0 and 1 
+  - We want to use R squared as a "best fit" parameter
+
+2. Potential problem with R Squared 
+  - The problem starts to occur when you add more variables to your model  
+  - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
