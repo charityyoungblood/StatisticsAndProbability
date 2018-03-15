@@ -65,13 +65,25 @@ How does the Simple Linear Regression FIND the "Trend" line? By Using the Ordina
   - The problem starts to occur when you add more variables to your model  
   - You would/could potentially add independent variables that you think are impacting the dependent variable (the outcome) and you want to fit the model to see if it's better or not (after adding additional independent variables) 
   - In this case, you would be answering the question: "Did R Squared INCREASE (meaning this would be the BETTER model) or did R Squared stay the same?"
-  - R Squared will NEVER DECREASE when you ADD independent variables 
+  - R Squared will NEVER DECREASE when you ADD independent variables
+  - The problem with R Squared is that you can add variables to your model, but you will NOT know if those variables are "helping" your model or "not helping"
   - Ex: In simple linear regression formula 
       y = b0 + b1 * x1 >> where "y" is the dependent variable, "b0" is a constant, "b1" is the coefficient to the independent variable, and "x1" is the independent variable 
   - In the case of multiple linear regression, the formula changes to:
       y = b0 + b1 * x1 + b2 * x2 + b3 * x3 + ... bn * xn  
-  - Adjusted R Sqaured Formula 
-      Adj R^2 = 1 - (1 - R^2)n - 1 / n - p - 1
+  
+  
+3. Adjusted R Sqaured Formula 
+    Adj R^2 = 1 - (1 - R^2)n - 1 / n - p - 1 
+      - p is the number of regressors (independent variables)
+      - n is the sample size  
+  - Adjusted R Squared has a penalization factor: it penalizes you for ADDING indpendent variables that DON'T help your model 
+  - Analyzing the formula 
+    - Since p is in the denominator, when p INCREASES, the DENOMINATOR VALUE DECREASES 
+    - When the denominatory DECREASES the ratio INCREASES (inversely proportional)
+    - When the ratio INCREASES the (1 - R^2) portion of the formula ALSO INCREASES 
+    - When the (1 - R^2) portion of the formula INCREASES and is subtracted from 1 (first part of formula), DECREASES 
+    - The above all means that the Adjusted R Squared value is DECREASING, going further away from 1
 
 
 
