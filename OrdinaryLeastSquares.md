@@ -32,15 +32,22 @@ How does the Simple Linear Regression FIND the "Trend" line? By Using the Ordina
 
 1. Sum of Squares of Residuals
     SSres = SUM((yi - yi^)^2)
+      - yi is the OBSERVED or ACTUAL VALUE
+      - yi hat is the PREDICTED or MODELED VALUE 
 
-2. Total Sum of Squares = SUM((yi - yavg)^2) - where "i" and "avg" are subscripts not regular multilple
-
+2. Total Sum of Squares
+    SStot = SUM((yi - yavg)^2) - where "i" and "avg" are subscripts not regular multilple
+    - yavg is your AVERAGE salary across ALL of your observations 
+    
 3. Instead of the regression line we drew in the previous example, we now draw an AVERAGE line 
 
 4. Next, we add vertical lines from the OBSERVED data to the AVERAGE (points on the line)
 
 5. Calculate the distance/difference between the OBSERVED data and AVERAGE, then square the values 
-    SUM((yi - yavg)^2) 
+    SUM((yi - yavg)^2)
+    
+6. R Squared 
+    R^2 = 1 - (SSres / SStot)
 
 
 
