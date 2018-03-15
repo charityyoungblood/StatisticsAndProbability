@@ -63,9 +63,15 @@ How does the Simple Linear Regression FIND the "Trend" line? By Using the Ordina
 
 2. Potential problem with R Squared 
   - The problem starts to occur when you add more variables to your model  
-  - 
-
-
+  - You would/could potentially add independent variables that you think are impacting the dependent variable (the outcome) and you want to fit the model to see if it's better or not (after adding additional independent variables) 
+  - In this case, you would be answering the question: "Did R Squared INCREASE (meaning this would be the BETTER model) or did R Squared stay the same?"
+  - R Squared will NEVER DECREASE when you ADD independent variables 
+  - Ex: In simple linear regression formula 
+      y = b0 + b1 * x1 >> where "y" is the dependent variable, "b0" is a constant, "b1" is the coefficient to the independent variable, and "x1" is the independent variable 
+  - In the case of multiple linear regression, the formula changes to:
+      y = b0 + b1 * x1 + b2 * x2 + b3 * x3 + ... bn * xn  
+  - Adjusted R Sqaured Formula 
+      Adj R^2 = 1 - (1 - R^2)n - 1 / n - p - 1
 
 
 
