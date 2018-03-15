@@ -44,8 +44,13 @@ Information from Youtube Series: 24/7 ProLearn - Data Science with R
     - Since this value is CLOSE to 1, this means there is a RELATIVELY HIGH correlation between salary and years of experience 
     - This HIGH CORRELATION, combined with the GOOD FIT of our Linear Regression Model (Trend Line) tells us that "Years of Experience" (X-Axis Value - Interval Value) will likely be a GOOD PREDICTOR VARIABLE for "Salary" (Y-Axis Value - Count)
     
-## Predict NEW, UNKNOWN Values From Linear Regression Model Analysis ## 
-
+## Step 6: Predict NEW, UNKNOWN Values From Linear Regression Model Analysis ## 
+  - Our goal is to try to predict what the corresponding salary will be for each new year of experience 
+  - To use our Linear Regression Model to predict new and unknown values, enter the following: 
+    predict(object = modelName, newdata = data.frame(ColumnTitleXAxis = c(5,7,9)))
+      object: This refers to our linear regression model 
+      newdata: a dataframe with the new X-Axis values 
+      c(5,7,9): these are values you can enter, from the values on the X-Axis, to predict the Y values 
   
   
   
