@@ -20,3 +20,15 @@ Information from Youtube Series: 24/7 ProLearn - Data Science with R
       - main: refers to TITLE of your Scatterplot
       - xlab: TITLE for X-AXIS
       - ylab: TITLE for Y-AXIS
+      
+## Step 3: Create Linear Regression ## 
+  - To create the Linear Regression (not the trend line, but the information we need to create the trend line, enter the following command: 
+    model = lm(formula = ColumnTitleForYAxis ~ ColumnTitleForXAxis, data = dataFrameName)
+      formula: set your YAxis value "as a function" of XAxis value - formula's in R are defined as our OUTCOME VARIABLE as a FUNCTION of our EXPLANATORY VARIABLE 
+  - Next, we have to use the SUMMARIZE function and pass in our model as an argument (the above formula will not automatically create the model and open another window like the Scatterplot does), enter in the following: 
+    summary(modelVariableName)
+  - Now our summary will be displayed in our console
+
+## Step 4: Create Linear Regression Trend Line (Model) ## 
+  - To create the Linear Regression Trend Line (Model), enter the following: 
+    lines(x = ColumnTitleForXAxis, y = modelVariableName$fitted, col = "red", lwd = 3)
