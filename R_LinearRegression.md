@@ -16,7 +16,7 @@ Information from Youtube Series: 24/7 ProLearn - Data Science with R
   - We create a Scatterplot in order to provide a VISUAL explanation for our Linear Regression Model as we construct it 
   - We'll use the "Base Plotting System", which is one of the three plotting systems in R 
   - To create the Scatterplot, enter the following command: 
-    plot(+ x = dataFrameName$ColumnTitleForXAxis, + y = dataFrameName$ColumnTitleForYAxis, + main = "Salary vs. Years of Experience", xlab = "Years of Experience", ylab = "Salary" )
+    plot(x = dataFrameName$ColumnTitleForXAxis, y = dataFrameName$ColumnTitleForYAxis, main = "ScatterPlotTitle", xlab = "XAxisTitle", ylab = "YAxisTitle")
       - main: refers to TITLE of your Scatterplot
       - xlab: TITLE for X-AXIS
       - ylab: TITLE for Y-AXIS
