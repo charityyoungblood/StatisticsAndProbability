@@ -25,8 +25,9 @@
 2. Median: the midpoint in the distribution; It is the number such that half of the observations fall above, and half fall below
   - To calculate the median:
     - Order the data from smallest to largest 
-    - Consider whether n (number of observations) is even or odd 
-    - If "n" is even: the median M is the "mean" of the two center observations in the ordered list. These two observations are the ones "sitting" in the n / 2 and n / 2 + 1 spots in the ordered list
+    - Consider whether "n" (number of observations) is even or odd 
+    - If "n" is even: the "median" M is the "mean" of the two center observations in the ordered list. Add the two numbers in the center together and divide by 2, to get the median 
+      Formula: n/2 + ((n/2) + 1)
     - If "n" is odd: the median M is the "center" observation in the ordered list. This observation is the one "sitting" in the (n + 1) / 2 spot in the ordered list
 
 3. Mode: the most commonly occurring value in a distribution 
