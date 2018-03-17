@@ -16,3 +16,21 @@
       - This is Q3, the third quartile of the data 
     - The middle 50% of the data falls between Q1 and Q3
         IQR = Q3 - Q1  
+        
+3. How do we classify "extreme" observations as "Outliers"?
+  - The IQR is used as a basic rule of thumb for identifying "outliers"
+  - An observation is considered a "suspected outlier" if: 
+    - The observation is below Q1 - 1.5(IQR) or 
+    - The observation is above Q3 + 1.5(IQR)
+  
+  Example: 
+  
+  min = 85, Q1 = 130, Median = 145, Q3 = 150, Max = 250
+    
+   IQR = Q3 - Q1 
+   Q1 - 1.5(IQR)
+   Q3 + 1.5(IQR)
+   
+   IQR = 150 - 130 = 20 
+   Below 130 - (1.5 * 20) = Below 100
+   Above 150 + (1.5 * 20) = Above 180
