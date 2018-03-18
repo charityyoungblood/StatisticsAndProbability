@@ -50,6 +50,16 @@
   - We do this by adding "parameter breaks" in the hist() command; the example below shows 8 breaks 
     hist(actor_age$Age, breaks=8, xlab="Age of Best Actor Oscar Winners (1970-2013)", main="")
 
+## R Commands for Descriptive Statistics ## 
+
+1. R-Commands - Five Number Summary 
+    summary(dataFrameName$ColumnTitle)
+    
+2. R-Commands - For Calculating Mean
+    mean(dataFrameName$ColumnTitle)
+    
+3. R-Commands - For Calculating Standard Deviation 
+    sd(dataFrameName$ColumnTitle)
 
 
 

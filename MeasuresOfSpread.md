@@ -36,12 +36,17 @@
    Above 150 + (1.5 * 20) = Above 180
    
 4. Understanding Outliers 
-  - Even though it is an extreme value, if an outlier can be understood to have been produced by essentially the same sort of physical or biological process as the rest of the data, and if such extreme values are expected to eventually occur again, then such an outlier indicates something important and interesting about the process you're investigating, and it should be kept in the data.
+  - Even though it is an "extreme value", IF an "Outlier" can be understood to have been produced by essentially the SAME sort of physical or biological process as the rest of the data, AND if such extreme values are expected to eventually OCCUR AGAIN, then such an outlier indicates something important and interesting about the process you're investigating, and it should be KEPT in the data.
 
-  - If an outlier can be explained to have been produced under fundamentally different conditions from the rest of the data (or by a fundamentally different process), such an outlier can be removed from the data if your goal is to investigate only the process that produced the rest of the data.
+  - If an outlier can be explained to have been "produced under fundamentally different conditions" from the rest of the data (or by a fundamentally different process), such an outlier can be REMOVED from the data if your goal is to investigate only the process that produced the rest of the data.
 
-  - An outlier might indicate a mistake in the data (like a typo, or a measuring error), in which case it should be corrected if possible or else removed from the data before calculating summary statistics or making inferences from the data (and the reason for the mistake should be investigated).
+  - An outlier might INDICATE A MISTAKE in the data (like a typo, or a measuring error), in which case it should be CORRECTED if possible or else REMOVED from the data before calculating summary statistics or making inferences from the data (and the reason for the mistake should be investigated).
 
+5. The Five Number Summary 
+  - The combination of Min, Q1, M (median), Q3, and Max is called the "Five Number Summary" 
+  - It provides a quick numerical description of both the center and spread of a distribution 
+  - R Command for Five Number Summary: 
+    summary(dataFrameName$ColumnTitle)
 
 
 
