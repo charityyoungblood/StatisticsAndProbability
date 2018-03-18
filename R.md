@@ -60,9 +60,35 @@
     
 3. R-Commands - For Calculating Standard Deviation 
     sd(dataFrameName$ColumnTitle)
+    
+4. R-Command - Calculating Variance 
+    var(dataFrameName$ColumnTitle)
+    
+5. R-Command - Calculating the Median 
+    median(dataFrameName$ColumnTitle)
+    
+6. R-Command - Calculating the IQR (Inter-Quartile Range)
+    IQR(dataFrameName$ColumnTitle)
+    
+7. R-Command - Calculating the Minimum
+    min(dataFrameName$ColumnTitle)
+    
+8. R-Command - Calculating the Maximum
+    max(dataFrameName$ColumnTitle)
+    
+9. R-Command - Calculating the Sample Size "n"
+    length(dataFrameName$ColumnTitle)
+    
+10. R-Command - Calculating the First Quartile (25th percentile, Q1)
+    quantile(dataFrameName$ColumnTitle, 0.25)
+    
+11. R-Command - Calculating the Third Quartile (75th percentile, Q3)
+    quantile(dataFrameName$ColumnTitle, 0.75)
 
-
-
+12. R-Command - To Create a Boxplot 
+    boxplot(dataFrameName, axes = FALSE, staplewex = 1)
+    text(y = boxplot.stats(dataFrameName$ColumnTitle)$stats, labels = boxplot.stats(dataFrameName$ColumnTitle)$stats, x = 1.25)
+      ** the second line above, adds the values to the boxplot (text) ** 
 
 
 
