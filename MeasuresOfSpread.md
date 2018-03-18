@@ -6,7 +6,7 @@
   - It is the most intuitive measure of variability 
   
 2. Inter-Quartile Range (IQR): 
-  - Measures the variability of a distribution by giving us the range covered by the MIDDLE 50% of the data
+  - Measures the variability of a distribution by giving us the "range" covered by the MIDDLE 50% of the data
   - Steps to Finding the IQR (from Stanford Statistics Course)
     - Arrange the data in increasing order > calculate the "median" 
     - Since the median separates the data down the middle, you now have a TOP 50% and a BOTTOM 50%
@@ -34,3 +34,55 @@
    IQR = 150 - 130 = 20 
    Below 130 - (1.5 * 20) = Below 100
    Above 150 + (1.5 * 20) = Above 180
+   
+4. Understanding Outliers 
+  - Even though it is an extreme value, if an outlier can be understood to have been produced by essentially the same sort of physical or biological process as the rest of the data, and if such extreme values are expected to eventually occur again, then such an outlier indicates something important and interesting about the process you're investigating, and it should be kept in the data.
+
+  - If an outlier can be explained to have been produced under fundamentally different conditions from the rest of the data (or by a fundamentally different process), such an outlier can be removed from the data if your goal is to investigate only the process that produced the rest of the data.
+
+  - An outlier might indicate a mistake in the data (like a typo, or a measuring error), in which case it should be corrected if possible or else removed from the data before calculating summary statistics or making inferences from the data (and the reason for the mistake should be investigated).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
