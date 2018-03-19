@@ -32,7 +32,28 @@
   - When there is LITTLE VARIABILITY, the values are more "CONSISTENT"
   - When there is LARGE VARIABILITY, the values "LACK CONSISTENCY"
   - The CENTER of the distribution is MORE MEANINGFUL as a "typical" value for the distribution when there is LITTLE VARIABILITY 
+    
+## BELOW ARE EXAMPLES OF HOW TO "TALK" OR "DESCRIBE" THE DATA ##
+    
+  Examples: Interpretation of Box Plot for Colleges (from Statistics Package Exercise: Creating Side-by-Side Boxplots) 
+     
+## Assignment: Compare and contrast the distributions of the graduation rates at the different colleges. Be sure to address center, spread and outliers. ## 
+     
+  - Center: Of the six colleges, college D has the highest median graduation rate (M = 79), followed by colleges F (M = 72), B (M = 70.15), C (M = 67.65), A (M = 63.75) and college E (M = 59.15).
 
+  - Spread: College B has the smallest variation in graduation rates over the years (range = 9.4%, IQR = 3.5%). College D's graduation rates are also pretty consistent over the years (range = 10.5%, IQR = 4.45%). A larger variation in graduation rates is found in colleges E and C, and the least consistency in graduation rates (i.e., largest variation) is found in college A (range = 30.6%, IQR = 19.55%) and college F (range = 29.7%, IQR = 16.23%).
+
+  - None of the graduation rates distributions have outliers.
+       
+## Assignment: If you had to choose one college among the six colleges based on this data, which college would it be? Explain your reasoning. ## 
+
+  - If I had to choose one college based on the graduation rates, I would choose college D. Not only does this college have the largest median graduation rates, but it also has the smallest variation in graduation rates over the years. This means that even in years when college D has a relatively small graduation rate, it is not MUCH smaller than the median (min = 74.1%, Median = 79%), and is still higher than most graduation rates at the other colleges. In particular, the smallest graduation rate that occurred in college D (74.1%), is still higher than:
+
+      • the highest graduation rate at colleges A and E,
+
+      • the third quartile of the distribution of graduation rates at colleges B and C, and
+
+      • the median graduation rate at college F.
 
 
 
