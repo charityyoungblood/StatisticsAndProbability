@@ -3,11 +3,14 @@
 1. Boxplot: 
   - The boxplot graphically represents the distribution of a quantitative variable by visually displaying the "five-number summary" and any observation that was classified as a suspected outlier using the 1.5(IQR) criterion
   - see "MeasuresOfSpread.md" > point 3. 
+  - Boxplots are MOST USEFUL when presented side-by-side for comparing and constrasting distributions from two or more groups 
   
 2. Boxplot Components/Features:
-  - Central Box: the actual "Box" portion of the display
+  - Central Box: 
+    - the actual "Box" portion of the display
+    - the Central Box spans from Q1 to Q3 
   - Horizontal Line in the Middle of the box: this is the Median across all observations
-  - Two Lines that extend ABOVE and BELOW the Box 
+  - Two Lines that extend ABOVE and BELOW the Box: these lines go to the SMALLEST and LARGEST observations that are NOT classified as OUTLIERS  
   - Any Outliers that might be present in the data set: These are displayed as "dots" 
   
 3. Boxplot Values:
@@ -24,5 +27,34 @@
     - STEP 6:
       - ANY VALUES that are GREATER THAN the UPPER WHISKER whisker point, as INDIVIDUAL POINTS (OUTLIERS)
       - ANY VALUES that are LESS THAN the LOWER WHISKER point, as INDIVIDUAL POINTS (OUTLIERS)
-  
+
+4. Interpreting Box Plots (Review Boxplot - Side-by-Side Boxplots)
+  - When there is LITTLE VARIABILITY, the values are more "CONSISTENT"
+  - When there is LARGE VARIABILITY, the values "LACK CONSISTENCY"
+  - The CENTER of the distribution is MORE MEANINGFUL as a "typical" value for the distribution when there is LITTLE VARIABILITY 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -43,6 +43,7 @@
   - An outlier might INDICATE A MISTAKE in the data (like a typo, or a measuring error), in which case it should be CORRECTED if possible or else REMOVED from the data before calculating summary statistics or making inferences from the data (and the reason for the mistake should be investigated).
 
 5. The Five Number Summary 
+  - The Five Number Summary provides a COMPLETE numerical description of a distribution 
   - The combination of Min, Q1, M (median), Q3, and Max is called the "Five Number Summary" 
   - It provides a quick numerical description of both the center and spread of a distribution 
   - R Command for Five Number Summary: 
