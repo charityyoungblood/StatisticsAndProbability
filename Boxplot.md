@@ -4,7 +4,13 @@
   - The boxplot graphically represents the distribution of a quantitative variable by visually displaying the "five-number summary" and any observation that was classified as a suspected outlier using the 1.5(IQR) criterion
   - see "MeasuresOfSpread.md" > point 3. 
   
-2. Boxplot Values:
+2. Boxplot Components/Features:
+  - Central Box: the actual "Box" portion of the display
+  - Horizontal Line in the Middle of the box: this is the Median across all observations
+  - Two Lines that extend ABOVE and BELOW the Box 
+  - Any Outliers that might be present in the data set: These are displayed as "dots" 
+  
+3. Boxplot Values:
   - To create a boxplot, plot the whiskers (thin lines) down to the minimum and up to the maximum value 
     - STEP 1: Calculate the IQR
     - STEP 2: Multiply IQR by 1.5 
