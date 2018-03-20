@@ -31,3 +31,15 @@
     Step 5: The SD of the data is the square root of the variance 
           SD = sqrt(13.9) = 3.73
           
+    Step 6: Conclusion
+        The SD (Standard Deviation) is 3.73, meaning that the actual dress size that is tried on each hour is 3.73 away from 10.36 (approximately 6.63 or Size 7)
+          
+2. The Standard Deviation should be PAIRED as a measure of spread with the MEAN as a measure of center 
+
+3. The only way the Standard Deviation is "0" is if all observations have the same value, i.e. No Variability 
+
+4. Standard Deviation is strongly influenced by outliers in the data 
+
+5. Choosing Numerical Summaries:
+  - Use the Mean, and the Standard Deviation as measure of center and spread ONLY for reasonably SYMMETRIC DISTRIBUTIONS with NO OUTLIERS 
+  - Use the Five Number Summary, for ALL OTHER CASES 
