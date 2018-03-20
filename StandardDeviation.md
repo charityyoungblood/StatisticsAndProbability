@@ -24,4 +24,10 @@
           
         9, 1, 1, 9, 25, 49, 25, 1, 9, 9, 1
         
-    
+    Step 4: Average the square deviations and divide by n - 1 (one less than the sample size)
+        (9 + 1 + 1 + 9 + 25 + 49 + 25 + 1 + 9 + 9 + 1) / (11 - 1) = 13.9 
+        ** This average of the squared deviations is called the "VARIANCE" of the data **
+        
+    Step 5: The SD of the data is the square root of the variance 
+          SD = sqrt(13.9) = 3.73
+          
