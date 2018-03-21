@@ -6,6 +6,11 @@
   - Download and save to directory
   - Open file in R, by either clicking the file directly, or going to "File" > Open Document 
   - Once in R, to view Data file contents > enter file name (without file extension)
+
+## When adding .rdata or .RData files into R or RStudio ##
+  - Create a variable to store file contents in, should be the name of the file, or shortened 
+  - Use the get(load()) function to load file and save to variable
+  - Ex: ratings <- get(load("/Users/thebargaintrendsetter/Desktop/Statistics/schoolRatings.RData"))
   
 3. To Extract (View) a Specific Variable Data Frame 
   ## A Data Frame is the title of your data file in lower case ##

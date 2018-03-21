@@ -4,6 +4,8 @@
   - A measure of spread that quantifies the spread of a distribution by measuring how FAR the observations are from their MEAN 
   - The Standard Deviation gives the average, or typical distance, between a data point and the mean
   - There are a few notations for the Standard Deviation including: SD, s, Sd, StDev
+  - A LOW standard deviation means that MOST of the numbers are VERY CLOSE to the AVERAGE (MEAN)
+  - A HIGH standard deviation means that the numbers are SPREAD OUT.
 
 ## Example: Here are the dress sizes tried on by customers in an 8 hour period: 
       
@@ -28,7 +30,7 @@
         (9 + 1 + 1 + 9 + 25 + 49 + 25 + 1 + 9 + 9 + 1) / (11 - 1) = 13.9 
         ** This average of the squared deviations is called the "VARIANCE" of the data **
         
-    Step 5: The SD of the data is the square root of the variance 
+    Step 5: The SD of the data is the square root of the VARIANCE  
           SD = sqrt(13.9) = 3.73
           
     Step 6: Conclusion
@@ -43,3 +45,48 @@
 5. Choosing Numerical Summaries:
   - Use the Mean, and the Standard Deviation as measure of center and spread ONLY for reasonably SYMMETRIC DISTRIBUTIONS with NO OUTLIERS 
   - Use the Five Number Summary, for ALL OTHER CASES 
+  
+6. The Standard Deviation Rule (also known as The Empirical Rule)
+  - For distributions having a symmetric mound-shape (this is known as a "normal" shape) the following rule applies: 
+    - Approximately 68% of the observations fall within 1 Standard Deviation of the Mean
+    - Approximately 95% of the observations fall within 2 Standard Deviations of the Mean.
+    - Approximately 99.7% (or virtually ALL) of the observations fall within 3 Standard Deviations of the Mean.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
