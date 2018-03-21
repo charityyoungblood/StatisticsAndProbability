@@ -89,6 +89,9 @@
     boxplot(dataFrameName, axes = FALSE, staplewex = 1)
     text(y = boxplot.stats(dataFrameName$ColumnTitle)$stats, labels = boxplot.stats(dataFrameName$ColumnTitle)$stats, x = 1.25)
       ** the second line above, adds the values to the boxplot (text) ** 
+      
+13. R-Command - To Calculate Standard Deviation
+    sapply(dataFrameName, sd)
 
 
 
