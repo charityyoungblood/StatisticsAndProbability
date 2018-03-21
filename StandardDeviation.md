@@ -44,7 +44,7 @@
 
 5. Choosing Numerical Summaries:
   - Use the Mean, and the Standard Deviation as measure of center and spread ONLY for reasonably SYMMETRIC DISTRIBUTIONS with NO OUTLIERS 
-  - Use the Five Number Summary, for ALL OTHER CASES 
+  - Use Descriptive Statistics, i.e. Five Number Summary, for ALL OTHER CASES 
   
 6. The Standard Deviation Rule (also known as The Empirical Rule)
   - For distributions having a symmetric mound-shape (this is known as a "normal" shape) the following rule applies: 
