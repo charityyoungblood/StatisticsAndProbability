@@ -37,7 +37,7 @@
 ## Step 4: Draw Conclusions ## 
   - In this step, we interpret the results we got from our analysis in the context of the current question 
   - Consider what the results mean 
-  - Reflect on conclusions
+  - Reflect on conclusions  
         
         
         
