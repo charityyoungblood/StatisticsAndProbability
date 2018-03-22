@@ -19,4 +19,11 @@
 ## Step 2: Reflect on The Question ## 
   - We need to think about the question and use our intuition and/or experience to try and PREDICT what the data will show 
   - Write it down/save, as you'll come back to this prediction after the actual data analysis and compare your prediction with the actual results
+  
+## Step 3: Analyze Data ## 
+  - In this step we choose and conduct analyses that are needed in order to address the current question 
+  - Plan Analyses: 
+      - Before choosing the appropriate analyses it is important to:
+        - IDENTIFY the RELEVANT variables
+        - CLASSIFY the RELEVANT variables   
 
