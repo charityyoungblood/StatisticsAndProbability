@@ -15,4 +15,8 @@
     - What information is in the data?
     - How is it formatted?
     - Is it formatted correctly? 
+    
+## Step 2: Reflect on The Question ## 
+  - We need to think about the question and use our intuition and/or experience to try and PREDICT what the data will show 
+  - Write it down/save, as you'll come back to this prediction after the actual data analysis and compare your prediction with the actual results
 
