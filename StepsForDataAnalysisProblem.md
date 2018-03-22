@@ -38,7 +38,10 @@
   - In this step, we interpret the results we got from our analysis in the context of the current question 
   - Consider what the results mean 
   - Reflect on conclusions  
-        
+  
+## Step 5: Summarize ## 
+  - In this final step of our data analysis process, we summarize our work and consider possible implications and limitations of our conclusions 
+  - Now that you have addressed all the questions individually, write a short summary report of the main findings that you discovered using the data
         
         
         
