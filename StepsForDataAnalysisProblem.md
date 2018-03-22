@@ -22,8 +22,34 @@
   
 ## Step 3: Analyze Data ## 
   - In this step we choose and conduct analyses that are needed in order to address the current question 
-  - Plan Analyses: 
+  *** Plan Analyses*** 
       - Before choosing the appropriate analyses it is important to:
         - IDENTIFY the RELEVANT variables
-        - CLASSIFY the RELEVANT variables   
+        - CLASSIFY the RELEVANT variables 
+  *** Exploratory Analyses *** 
+      - Now that we have identified and classified the relevant variables, we use Exploratory Data Analysis methods to help us make important features of the data visible 
+      - REMEMBER: Exploratory Data Analysis is Step 2 of our Statistical process 
+      - First, select the most MEANINGFUL graphical display 
+      - Next, Use the Statistical program of your choice (RStudio in your case), to construct the chosen graphical display
+      - Report Results: To report your results, use the following: 
+        - Describe the key features of the display and by support your description with numerical measures
+      
+## Step 4: Draw Conclusions ## 
+  - In this step, we interpret the results we got from our analysis in the context of the current question 
+  - Consider what the results mean 
+  - Reflect on conclusions
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
