@@ -31,9 +31,12 @@
   - After you've entered the above commands to create the Frequency Distribution Table
     Enter the following: pie(t)
   - Here you can modify Pie Chart Labels, with the following commands:
-    - pf = round(percent,1);pf >> this rounds our values to 1 decimal place
-    - lbl = paste(c("No difference","Opposite sex","Same sex"),pf,"%",sep=" ");lbl >> the ensures our labels will include category names and percent for each section of the pie chart 
-    - pie(t,label=lbl) >> this creates the updated pie chart 
+    - AFTER creating Frequency Distribution Table, enter the following: 
+      - prop = prop.table(t);prop
+      - percent = prop.table(t)*100;percent
+      - pf = round(percent,1);pf >> this rounds our values to 1 decimal place
+      - lbl = paste(c("No difference","Opposite sex","Same sex"),pf,"%",sep=" ");lbl >> the ensures our labels will include category names and percent for each section of the pie chart 
+      - pie(t,label=lbl) >> this creates the updated pie chart 
 
 ## Histograms in R ## 
   - The default X-Axis label is the VARIABLE NAME (i.e. Age)

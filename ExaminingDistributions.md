@@ -27,7 +27,7 @@
         Lower Body	        110	          110/1200 = 9.2%
         Total	           n=1200	       100%
         
-## Pie Charts, Bar Charts and Pictograms are used to display QUALITATIVE DATA ##        
+## Pie Charts, Bar Charts and Pictograms are used to display QUALITATIVE/CATEGORICAL DATA ##        
 
 4. Pie and Bar Charts 
   - There are two simple graphical displays for visualizing the distribution of categorical data 

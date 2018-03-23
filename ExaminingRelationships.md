@@ -10,9 +10,24 @@
     - This is the outcome of the study 
     - The "Response Variable" is denoted by "Y"
   
-3. Examples of Two Variable Relationships 
+3. Example of Two Variable Relationships 
   - Question: Are test scores affected by the test taker's gender? 
     Explanatory Variable: Gender 
     Response Variable: Test Scores 
     
+4. When examining relattionships, we further classify each of the TWO RELEVANT VARIABLES according to TYPE:
+
+## There are 4 possibilities of "Role-Type Classification" ##
+  
+  1. Categorical Explanatory Variable and Quantitative Response Variable, which is the same as:
+       Qualitative Independent Variable and Numeric Dependent Variable 
+       
+  2. Categorical Explanatory Variable and Categorical Response Variable, which is the same as:
+       Qualitative Independent Variable and Qualitative Dependent Variable
+       
+  3. Quantitative Explanatory Variable and Quantitative Response Variable, which is the same as:
+       Numeric Independent Variable and Numeric Dependent Variable
+       
+  4. Quantitative Explanatory Variable and Categorical Response Variable, which is the same as: 
+       Numerics Independent Variable and Qualitative Dependent Variable 
   
