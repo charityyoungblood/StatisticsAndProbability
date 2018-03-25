@@ -38,7 +38,8 @@
   
   2. When using a Two-Way table, don't compare the EXACT count, UNLESS the obervations are even between both groups (i.e. if you have a sample of 560 females and 780 males)
     - In this case, we would use a numerical summary 
-    - This can be done by converting the counts to percentages within each value of the EXPLANATORY VARIABLE separately 
+    - This can be done by converting the counts to percentages within each value of the EXPLANATORY VARIABLE separately; These percentages are called "Conditional Percentages" - since we find them by "conditioning" one of the variables 
+    
        
        
        
