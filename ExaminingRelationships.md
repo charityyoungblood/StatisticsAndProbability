@@ -30,4 +30,27 @@
        
   4. Quantitative Explanatory Variable and Categorical Response Variable, which is the same as: 
        Numerics Independent Variable and Qualitative Dependent Variable 
+       
+## Two-Way Table ### 
+
+  1. To summarize the relationship between two categorical variables, we create a "Two-Way Table"
+      - This looks similar to a frequency table or Excel worksheet 
+  
+  2. When using a Two-Way table, don't compare the EXACT count, UNLESS the obervations are even between both groups (i.e. if you have a sample of 560 females and 780 males)
+    - In this case, we would use a numerical summary 
+    - This can be done by converting the counts to percentages within each value of the EXPLANATORY VARIABLE separately 
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
   
