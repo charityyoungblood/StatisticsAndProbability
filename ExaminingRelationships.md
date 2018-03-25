@@ -40,6 +40,15 @@
     - In this case, we would use a numerical summary 
     - This can be done by converting the counts to percentages within each value of the EXPLANATORY VARIABLE separately; These percentages are called "Conditional Percentages" - since we find them by "conditioning" one of the variables 
     
+  3. Conditional Percentages: 
+    - Conditional Percentages are calculated for each value of the explanatory variable separately 
+    - If the EXPLANATORY VARIABLE is in a ROW (Horizontal) the Conditional Percentage is calculated by ROW 
+    - If the EXPLANATORY VARIABLE is in a COLUMN (Vertical) the Conditional Percentage is calculated by COLUMN (vertical)
+    
+  4. Categorical Explanatory Variable AND Categorical Response Variable 
+    - When examining the relationship between TWO Categorical Variables, you compare the distributions of the Response variable for values of the Explanatory Variable 
+    - We look at how the pattern of conditional percentages differs between the values of the Explanatory Variable 
+    
        
        
        
