@@ -59,6 +59,7 @@
   1. Relationships that have "Linear" form are quite common and relatively simple to detect 
   2. There exists a numerical measure that assesses the strength of the linear relationship between two quantitative variables with which we can supplement the Scatterplot 
   3. REMEMBER: NOT all relationships between two quantitative variables has a Linear form 
+  4. Assessing the "Strength" of a Linear Relationship from a Scatterplot alone is problematic, as our judgement might be affected by the scale on which the values are plotted 
   
   
   
