@@ -14,6 +14,9 @@
       - Direction: this can be "Positive", "Negative" or "Neither" 
         - Positive Relationship: means that an increase in one of the variables is associated with an increase in the other 
         - Negative Relationship: means that an increase in one of the variables is associated with a decrease in the other 
-      - Form 
+      - Not ALL relationships can be classified as either "Positive" or "Negative" 
+      - Form: this is the Scatterplot's general shape 
+        - Linear: Relationships with Linear form are described as points scattered about a line 
+        - Curvilinear: Relationships with Curvilinear 
       - Strength 
     - Deviations From The Pattern: 
