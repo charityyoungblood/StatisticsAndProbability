@@ -16,7 +16,12 @@
         - Negative Relationship: means that an increase in one of the variables is associated with a decrease in the other 
       - Not ALL relationships can be classified as either "Positive" or "Negative" 
       - Form: this is the Scatterplot's general shape 
+        - When identifying the "form", try to find the simplest way to describe the shape of the Scatterplot 
         - Linear: Relationships with Linear form are described as points scattered about a line 
         - Curvilinear: Relationships with Curvilinear 
-      - Strength 
-    - Deviations From The Pattern: 
+        - Clusters 
+      - Strength: The "Strength" of the relationship is determined by how closely the data follow the "form" of the relationship 
+    - Deviations From The Pattern: Data points that deviate from the pattern are called "Outliers" 
+    
+3. Labeled Scatterplot
+  - Adding labels to a Scatterplot that indicate different groups or categories within the data might help us get more insight about the relationship we are exploring 
