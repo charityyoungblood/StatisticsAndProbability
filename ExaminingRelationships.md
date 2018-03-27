@@ -31,7 +31,12 @@
   4. Quantitative Explanatory Variable and Categorical Response Variable, which is the same as: 
        Numerics Independent Variable and Qualitative Dependent Variable 
        
-## Two-Way Table ### 
+## Side-By-Side Boxplot (C -> Q) ### 
+
+  1. To examine the relationship between two variables where the EXPLANATORY VARIABLE is CATEGORICAL and the RESPONSE VARIABLE is QUANTITATIVE we use "Side-By-Side Boxplots" 
+  2. The "Side-By-Side" Boxplots allow us to compare the distribution of calorie counts within each category of the Explanatory variable 
+       
+## Two-Way Table (C -> C) ### 
 
   1. To summarize the relationship between two categorical variables, we create a "Two-Way Table"
       - This looks similar to a frequency table or Excel worksheet 

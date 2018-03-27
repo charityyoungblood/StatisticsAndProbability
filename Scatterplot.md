@@ -25,3 +25,4 @@
     
 3. Labeled Scatterplot
   - Adding labels to a Scatterplot that indicate different groups or categories within the data might help us get more insight about the relationship we are exploring 
+  - Labeled Scatterplots can provide further insight about the relationship we are exploring 
