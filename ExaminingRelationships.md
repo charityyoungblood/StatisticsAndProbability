@@ -54,8 +54,36 @@
     - When examining the relationship between TWO Categorical Variables, you compare the distributions of the Response variable for values of the Explanatory Variable 
     - We look at how the pattern of conditional percentages differs between the values of the Explanatory Variable 
     
-       
-       
+## Linear Relationships (Q -> Q) ## 
+
+  1. Relationships that have "Linear" form are quite common and relatively simple to detect 
+  2. There exists a numerical measure that assesses the strength of the linear relationship between two quantitative variables with which we can supplement the Scatterplot 
+  3. REMEMBER: NOT all relationships between two quantitative variables has a Linear form 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
        
        
        
