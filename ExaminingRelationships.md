@@ -60,6 +60,18 @@
   2. There exists a numerical measure that assesses the strength of the linear relationship between two quantitative variables with which we can supplement the Scatterplot 
   3. REMEMBER: NOT all relationships between two quantitative variables has a Linear form 
   4. Assessing the "Strength" of a Linear Relationship from a Scatterplot alone is problematic, as our judgement might be affected by the scale on which the values are plotted 
+  5. To CORRECTLY assess the strength of a Linear Relationship - we use the "Correlation Coefficient" 
+    - CORRELATION COEFFICIENT: denoted by "r", this is a numerical measure that measures the STRENGTH and DIRECTION of a Linear Relationship between two QUANTITATIVE VARIABLES
+    - The value of "r" ranges from -1 to 1, "r" CANNOT take values outside of this range 
+    - The sign of "r" either positive or negative, indicates the DIRECTION of the Relationship 
+    - Negative values of "r" indicate a "Negative Relationship" 
+    - Positive values of "r" indicate a "Positive Relationship" 
+    - "r" indicates the "Strength" of the Linear Relationship 
+    - Values of "r" that are CLOSER TO ZERO, positive or negative, indicate a WEAK LINEAR RELATIONSHIP 
+      - The closer "r" is to zero, the WEAKER the relationship 
+      - If "r" is EQUAL TO zero, which is extremely rare, this indicates NO LINEAR RELATIONSHIP 
+    - Values of "r" close to -1 indicate a Strong NEGATIVE LINEAR RELATIONSHIP; the CLOSER "r" is to -1, the STRONGER the relationship
+    - Values of "r" close to 1 indicate a Strong POSITIVE LINEAR RELATIONSHIP; the CLOSER "r" is to 1, the STRONGER the relationship
   
   
   
