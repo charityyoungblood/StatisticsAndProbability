@@ -16,4 +16,4 @@
 2. Properties of The Correlation Coefficient 
     - If we change the units of measurement (i.e. changing "feet" to "meters") of the explanatory variable and/or the response variable, the change has NO EFFECT on the correlation (r) 
     - The CORRELATION COEFFICIENT is USELESS for assessing the Strength of any type of NON-LINEAR relationships - this INCLUDES "Curvilinear" relationships 
-  
+  ## IMPORTANT ### >>> ALWAYS LOOK AT THE DATA IN THE SCATTERPLOT - As there may be a STRONG, NON-LINEAR Relationship that "r" does NOT indicate #####
