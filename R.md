@@ -105,6 +105,9 @@
 
   1. R-Command For Scatterplot
     - plot(dataFrameName$ColumnHeader, dataFrameName$SecondColumnHeader, xlab="TitleForX-Axis", ylab="TitleForY-Axis")
+    
+  2. R-Command For Correlation Coefficient
+    - cor(dataFrameName$ColumnHeader, dataFrameName$SecondColumnHeader)
 
 
 

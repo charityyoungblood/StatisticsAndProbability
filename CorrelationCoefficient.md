@@ -19,3 +19,7 @@
   ## IMPORTANT ### >>> ALWAYS LOOK AT THE DATA IN THE SCATTERPLOT - As there may be a STRONG, NON-LINEAR Relationship that "r" does NOT indicate #####
     - The Correlation ("r") is HEAVILY INFLUENCED by Outliers; the way in which the outlier influences the correlation depends upon whether or not the outlier is consistent with the pattern of the linear relationship 
     - If the Outlier is NOT consistent with the pattern of the Linear Relationship, i.e. the Scatterplot displays a "Positive" Linear relationship with 2 Outliers at the bottom, the CORRELATION COEFFICIENT will DECREASE 
+    
+3. Example of Interpretating Correlation Coefficient 
+  - Description: Report the correlation between gestation and longevity and comment on the strength and direction of the relationship. Interpret your findings in context.
+ ## Response: The correlation is r = 0.663. The relationship is moderately strong and positive. The positive direction of the relationship means that, in general, animals that have a longer lifespan also have longer pregnancies. The moderate strength of the relationship tells us that there is some considerable variation around the relationship's linear form.
