@@ -100,6 +100,11 @@
       
 13. R-Command - To Calculate Standard Deviation
     sapply(dataFrameName, sd)
+    
+## Scatterplot in R ## 
+
+  1. R-Command For Scatterplot
+    - plot(dataFrameName$ColumnHeader, dataFrameName$SecondColumnHeader, xlab="TitleForX-Axis", ylab="TitleForY-Axis")
 
 
 
