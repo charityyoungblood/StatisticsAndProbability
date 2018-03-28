@@ -17,3 +17,5 @@
     - If we change the units of measurement (i.e. changing "feet" to "meters") of the explanatory variable and/or the response variable, the change has NO EFFECT on the correlation (r) 
     - The CORRELATION COEFFICIENT is USELESS for assessing the Strength of any type of NON-LINEAR relationships - this INCLUDES "Curvilinear" relationships 
   ## IMPORTANT ### >>> ALWAYS LOOK AT THE DATA IN THE SCATTERPLOT - As there may be a STRONG, NON-LINEAR Relationship that "r" does NOT indicate #####
+    - The Correlation ("r") is HEAVILY INFLUENCED by Outliers; the way in which the outlier influences the correlation depends upon whether or not the outlier is consistent with the pattern of the linear relationship 
+    - If the Outlier is NOT consistent with the pattern of the Linear Relationship, i.e. the Scatterplot displays a "Positive" Linear relationship with 2 Outliers at the bottom, the CORRELATION COEFFICIENT will DECREASE 

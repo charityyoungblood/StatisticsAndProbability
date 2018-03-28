@@ -2,6 +2,13 @@
 
 Information from Youtube Series: 24/7 ProLearn - Data Science with R 
 
+### IMPORTANT >>>> BEFORE BUILDING A LINEAR REGRESSION MODEL, YOU HAVE TO CHECK THAT THE FOLLOWING ASSUMPTIONS ARE TRUE: 
+  1. LINEARITY 
+  2. HOMOSCEDASTICITY
+  3. MULTIVARIATE NORMALITY 
+  4. INDEPENDENCE OF ERRORS
+  5. LACK OF MULTICOLLINEARITY 
+
 ## Step 1: Create Data Frame ##
   - If data is in any other file extenstion, other than .rdata, load data first 
   - To create data frame in R, use the following command: 
