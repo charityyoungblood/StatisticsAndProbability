@@ -19,3 +19,51 @@
     Y = a + bX 
     a: The intercept (a) is the value that Y takes when X = 0 
     b: The slope (b) is the change in Y for every increase of 1 unit in X
+    
+4. Least-Squares Regression Line
+  - The equation for summarizing the Linear Relationship between the Response/Dependent Variable (Y) and the Explanatory/Independent Variable (X) has the form: Y = a + bX
+  - However, we have to calculate the value of "a" and "b" > For this, we will need the following:
+    - _X: the MEAN of the Explanatory Variable's value 
+    ## that is X with a line over the top, but can't do in text editor ## 
+    - Sx: the STANDARD DEVIATION of the Explanatory Variable's values 
+    ## that is S sub x (x is below the S) ##
+    - _Y: the MEAN of the Response Variable's values
+    ## that is Y with a line over the top, but can't do in text editor ##
+    - Sy: the STANDARD DEVIATION of the Response Variable's values
+    ## that is S sub y (y is below the S) ##
+    - r: Correlation Coefficient 
+  - Given the above values, the SLOPE (b) and INTERCEPT (a) of the Least Squares Regression Line are found using the following formulas: 
+      b = r (Sy/Sx) >>>> Remember this is S sub y and S sub x
+      a = _Y - b_X >>>>> This is Y with a line on top and X with a line on top 
+      
+      
+      
+      
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

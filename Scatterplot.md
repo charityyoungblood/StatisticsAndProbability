@@ -6,7 +6,7 @@
     -> Each PAIR of values is plotted > The EXPLANATORY VARIABLE (X) is plotted on the X-Axis (Horizontal)
     -> The value of the RESPONSE VARIABLE (Y) is plotted on the Y-Axis 
   - When creating a Scatterplot the EXPLANATORY VARIABLE should ALWAYS be plotted on the HORIZONTAL AXIS
-  - The RESPONSE VARIABLE should ALWAYS be plotted on the VERTICAL AXIS 
+  - The RESPONSE VARIABLE should ALWAYS be plotted on the VERTICAL AXIS (Y-AXIS)
   
 2. How To Interpret A Scatterplot 
   - When describing the relationship between two quantitative variables using a Scatterplot we look at: 
