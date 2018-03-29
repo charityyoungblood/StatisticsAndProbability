@@ -35,8 +35,9 @@
   - Given the above values, the SLOPE (b) and INTERCEPT (a) of the Least Squares Regression Line are found using the following formulas: 
       b = r (Sy/Sx) >>>> Remember this is S sub y and S sub x
       a = _Y - b_X >>>>> This is Y with a line on top and X with a line on top 
-      
-      
+  - The slope of the Least Squares Regression Line can be interpreted as the average change in response variable when the Explanatory Variable increases by 1 unit 
+  
+  ## IMPORTANT: Since the formula for the intercept (a) depends on the values of the slope (b) you have to calculate the SLOPE FIRST ##     
       
       
       
