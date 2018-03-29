@@ -12,5 +12,10 @@
   - See Stanford Statistics: Case Q -> Q Under "Least Squares Regression"
   
 3. The Algebra of a Line 
-  - 
-  
+  - A "Line" is described by a set of points (X,Y) that obey a particular relationship between X and Y 
+  - That relationship is called the "Equation of a Line" 
+  - The constants "a" and "b", which can be negative or positive, tell us what the line looks like 
+  ## Equation of a Line Formula ## 
+    Y = a + bX 
+    a: The intercept (a) is the value that Y takes when X = 0 
+    b: The slope (b) is the change in Y for every increase of 1 unit in X
