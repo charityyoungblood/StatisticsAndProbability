@@ -23,3 +23,7 @@
 3. Example of Interpretating Correlation Coefficient 
   - Description: Report the correlation between gestation and longevity and comment on the strength and direction of the relationship. Interpret your findings in context.
  ## Response: The correlation is r = 0.663. The relationship is moderately strong and positive. The positive direction of the relationship means that, in general, animals that have a longer lifespan also have longer pregnancies. The moderate strength of the relationship tells us that there is some considerable variation around the relationship's linear form.
+ 
+ 4. Drawbacks to Correlation Coefficient
+  - The Correlation Coefficient is useful for telling us whether two variables are correlated HOWEVER, it does NOT describe the nature of the relationship between the two variables 
+  - "Lines" are VERY USEFUL for describing relationships between two variables 
