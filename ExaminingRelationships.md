@@ -73,6 +73,8 @@
     - Values of "r" close to -1 indicate a Strong NEGATIVE LINEAR RELATIONSHIP; the CLOSER "r" is to -1, the STRONGER the relationship
     - Values of "r" close to 1 indicate a Strong POSITIVE LINEAR RELATIONSHIP; the CLOSER "r" is to 1, the STRONGER the relationship
     - The CORRELATION COEFFICIENT can ONLY be interpreted as the measure of Strength of a Linear Relationship - we need the Scatterplot to VERIFY that the relationship indeed looks Linear 
+    
+## Extrapolation: is the prediction of values of the EXPLANATORY VARIABLE that fall outside the range of the data - Extrapolation SHOULD BE AVOIDED ### 
   
   
   
