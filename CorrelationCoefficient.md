@@ -28,3 +28,19 @@
  4. Drawbacks to Correlation Coefficient
   - The Correlation Coefficient is useful for telling us whether two variables are correlated HOWEVER, it does NOT describe the nature of the relationship between the two variables 
   - "Lines" are VERY USEFUL for describing relationships between two variables 
+  - The Correlation Coefficient ALONE is NOT sufficient to determine whether a relationship is Linear or not; The Correlation Coefficient serves as a SUPPLEMENT to the Scatterplot
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
