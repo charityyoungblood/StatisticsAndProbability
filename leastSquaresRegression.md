@@ -41,6 +41,7 @@
   ## IMPORTANT: Since the formula for the intercept (a) depends on the values of the slope (b) you have to calculate the SLOPE FIRST ##     
   
   - The Least Squares Regression Line is sometimes listed as: Y = (slope * X) + intercept or Y = bX + a 
+  - Predictions for ranges of the explanatory variable that are not in the data is called "Extrapolation"  
       
       
       
