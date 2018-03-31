@@ -29,7 +29,7 @@
        Numeric Independent Variable and Numeric Dependent Variable
        
   4. Quantitative Explanatory Variable and Categorical Response Variable, which is the same as: 
-       Numerics Independent Variable and Qualitative Dependent Variable 
+       Numeric Independent Variable and Qualitative Dependent Variable 
        
 ## Side-By-Side Boxplot (C -> Q) ### 
 
