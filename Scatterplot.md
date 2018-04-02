@@ -1,4 +1,5 @@
 <!-- Scatterplot --> 
+## When creating a Scatterplot in R - Complete Steps in R_LinearRegression.md FIRST ##
 
 1. Scatterplot
   - To examine the relationship between two QUANTITATIVE VARIABLES we use a Scatterplot

@@ -10,7 +10,7 @@
 
 2. Association DOES NOT imply CAUSATION
 
-3. Lurking Variable: A variable that is NOT among the Explanatory or Response Variables in a study, but could substantially affect your interpretation of the relationship among those variables 
+3. Lurking Variable: A variable that is NOT among the Explanatory or Response Variables in a study, but could substantially change your interpretation of the data if it were included 
   - There are instances where you will need to include or account for the lurking variable in your study
   - Whenever including a Lurking Variable causes us to RETHINK the direction of an association, this is called "Simpson's Paradox" 
   - It is NOT always the case that including a Lurking Variable makes us rethink the direction of the association - in some cases, it just helps us BETTER UNDERSTAND the observed relationship   

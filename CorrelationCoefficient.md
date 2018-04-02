@@ -1,5 +1,7 @@
 <!-- Correlation Coefficient --> 
 
+## When creating a Scatterplot in R - Complete Steps in R_LinearRegression.md FIRST ##
+
 1. CORRELATION COEFFICIENT: denoted by "r", this is a numerical measure that measures the STRENGTH and DIRECTION of a Linear Relationship between two QUANTITATIVE VARIABLES
     - The value of "r" ranges from -1 to 1, "r" CANNOT take values outside of this range 
     - The sign of "r" either positive or negative, indicates the DIRECTION of the Relationship 
