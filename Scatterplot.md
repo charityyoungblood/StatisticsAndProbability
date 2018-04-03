@@ -31,6 +31,6 @@
 4. Regression Line in R - enter the following: 
   - modelVariableName=lm(dataFrameName$Y-AxisHeader ~ dataFrameName$X-AxisHeader)
   - abline(modelVariableName)
-  - cf=coefficients(modelVariableName); 
-  - lt=paste("GPA = ",round(cf[1],2),"+",round(cf[2],2),"HS_GPA")
+  - cf=coefficients(modelVariableName) 
+  - lt=paste("X-AxisHeader = ",round(cf[1],2),"+",round(cf[2],2),"Y-AxisHeader") >>> this displays the equation of a line at the top of the Scatterplot
   - legend(1.7,4.3,lt)
