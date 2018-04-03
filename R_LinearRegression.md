@@ -46,7 +46,7 @@ Information from Youtube Series: 24/7 ProLearn - Data Science with R
 ## Step 5: Obtain Correlation Coefficient of the Two Variables We are Examining ## 
   - Before we predict new values based on our linear regression model, we first need to look at the correlation coefficient of the two variables we are examining: "salary" and "years of experience" 
   - Enter in the following command: 
-    cor(x = dataFrameName$ColumnTitleForXAxis, y = dataFrameName$ColumnTitleForYAxis)
+    cor(x = dataFrameName$ColumnTitleForXAxis, y = dataFrameName$ColumnTitleForYAxis, use="c")
   - In our example, the correlation coefficient of our two variables is 0.9782416
     - Since this value is CLOSE to 1, this means there is a RELATIVELY HIGH correlation between salary and years of experience 
     - This HIGH CORRELATION, combined with the GOOD FIT of our Linear Regression Model (Trend Line) tells us that "Years of Experience" (X-Axis Value - Interval Value) will likely be a GOOD PREDICTOR VARIABLE for "Salary" (Y-Axis Value - Count)

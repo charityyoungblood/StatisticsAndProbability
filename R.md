@@ -107,7 +107,7 @@
     - plot(dataFrameName$X-AxisColumnHeader, dataFrameName$Y-AxisColumnHeader, xlab="TitleForX-Axis", ylab="TitleForY-Axis")
     
   2. R-Command For Correlation Coefficient
-    - cor(dataFrameName$X-AxisColumnHeader, dataFrameName$Y-AxisColumnHeader)
+    - cor(dataFrameName$X-AxisColumnHeader, dataFrameName$Y-AxisColumnHeader, use="c")
 
 
 

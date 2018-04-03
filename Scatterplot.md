@@ -27,3 +27,10 @@
 3. Labeled Scatterplot
   - Adding labels to a Scatterplot that indicate different groups or categories within the data might help us get more insight about the relationship we are exploring 
   - Labeled Scatterplots can provide further insight about the relationship we are exploring 
+  
+4. Regression Line in R - enter the following: 
+  - modelVariableName=lm(dataFrameName$Y-AxisHeader ~ dataFrameName$X-AxisHeader)
+  - abline(modelVariableName)
+  - cf=coefficients(modelVariableName); 
+  - lt=paste("GPA = ",round(cf[1],2),"+",round(cf[2],2),"HS_GPA")
+  - legend(1.7,4.3,lt)
