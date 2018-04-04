@@ -101,6 +101,10 @@
 13. R-Command - To Calculate Standard Deviation
     sapply(dataFrameName, sd)
     
+14. R-Command - Two-Way Table (and Conditional Percentages)
+    tbl = table(data.frame(dataFrameName$x,dataFrameName$y)); tbl
+    100*tbl/rowSums(tbl)
+
 ## Scatterplot in R ## 
 
   1. R-Command For Scatterplot
@@ -109,6 +113,8 @@
   2. R-Command For Correlation Coefficient
     - cor(dataFrameName$X-AxisColumnHeader, dataFrameName$Y-AxisColumnHeader, use="c")
 
+  3. R-Command For Removing an Outlier 
+    - 
 
 
 
