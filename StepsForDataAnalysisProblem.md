@@ -25,7 +25,7 @@
   *** Plan Analyses*** 
       - Before choosing the appropriate analyses it is important to:
         - IDENTIFY the RELEVANT variables
-        - CLASSIFY the RELEVANT variables 
+        - CLASSIFY the RELEVANT variables (Categorical/Qualitative, Numerical/Quantitative)
   *** Exploratory Analyses *** 
       - Now that we have identified and classified the relevant variables, we use Exploratory Data Analysis methods to help us make important features of the data visible 
       - REMEMBER: Exploratory Data Analysis is Step 2 of our Statistical process 

@@ -15,7 +15,7 @@
     Explanatory Variable: Gender 
     Response Variable: Test Scores 
     
-4. When examining relattionships, we further classify each of the TWO RELEVANT VARIABLES according to TYPE:
+4. When examining relationships, we further classify each of the TWO RELEVANT VARIABLES according to TYPE:
 
 ## There are 4 possibilities of "Role-Type Classification" ##
   
