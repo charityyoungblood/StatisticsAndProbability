@@ -100,11 +100,14 @@
       
 13. R-Command - Side-By-Side Boxplots 
     plot(factor(dataFrameName$x), dataFrameName$y)
-      
-13. R-Command - To Calculate Standard Deviation
+
+14. R-Command - Descriptive Statistics of Side-By-Side Boxplots
+    tapply(dataFrameName$y, factor(dataFrameName$x), summary)
+    
+15. R-Command - To Calculate Standard Deviation
     sapply(dataFrameName, sd)
     
-14. R-Command - Two-Way Table (and Conditional Percentages)
+16. R-Command - Two-Way Table (and Conditional Percentages)
     tbl = table(data.frame(dataFrameName$x,dataFrameName$y)); tbl
     100*tbl/rowSums(tbl)
 
