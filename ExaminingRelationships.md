@@ -76,6 +76,13 @@
     
 ## Extrapolation: is the prediction of values of the EXPLANATORY VARIABLE that fall outside the range of the data - Extrapolation SHOULD BE AVOIDED ### 
   
+  Examples of Summarizing your findings:  
+  
+  Data Analysis Question: Is there a relationship between students' college GPAs and their high school GPAs?
+  
+    Instructions: Write a short summary report of the main findings that you discovered using the data. For your convenience, your individual conclusions are provided below. You may edit them to create your summary.
+  
+    Answer: In the first and third question, we examined two explanatory variables for the response variable college GPA. We found that generally, students who have a high high school GPA will tend to also have a high college GPA, and that students who typically sit in the front of the classroom generally have a higher GPA than those who sit in the middle or the back. In the second question, we investigated a completely unrelated issue, the differences in body image between males and females. We were surprised to find that actually a higher percentage of females were satisfied with their weight than males.
   
   
   
