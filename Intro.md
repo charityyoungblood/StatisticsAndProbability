@@ -2,6 +2,14 @@
 
 Statistics is the process in which we collect data, summarize data and interpret data
 
+Data Analysis encompasses four steps: 
+  Step 1: Data Production/Producing Data
+  Step 2: Exploratory Data Analysis (EDA)
+  Step 3: Probability 
+  Step 4: Inference
+
+These four steps are detailed below: 
+
 ## Step 1: Producing Data ## 
 
 1. Population: 
