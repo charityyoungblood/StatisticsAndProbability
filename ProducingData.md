@@ -55,11 +55,19 @@ Sampling: Probability Sampling Plans
     
   3. Cluster Sampling 
     - This sampling technique is used when our population is naturally divided into groups - which are called "Clusters" 
-    - We take a "Random Sample" of "Clusters" and use all the individuals within the selected clusters as our sample 
+    - We take a "Random Sample" of "Clusters" and use ALL the individuals within the selected "Clusters" as our sample 
   
   4. Stratified Sampling 
     - Is used when our population is naturally divided into sub-populations, which we call stratum (plural: strata)
-    - We choose a "Simple Random Sample" from each "Stratum" and our sample consists of all the "Simple Random Samples" put together 
+    - We choose a "Simple Random Sample" from each "Stratum" and our sample consists of ALL the "Simple Random Samples" put together 
+    
+  5. Examples: Cluster Sampling vs Stratiified Sampling 
+     
+     Analysis Question: Suppose you would like to study the job satisfaction of hospital nurses in a certain city based on a sample. Besides taking a simple random sample, here are two additional ways to obtain such a sample:
+
+        - Suppose that the city has 10 hospitals. Choose one of the 10 hospitals at random and interview ALL the nurses in THAT hospital regarding their job satisfaction. This is an example of "Cluster Sampling", in which THE HOSPITALS are the "Clusters".
+
+        - Choose a random sample of 50 nurses from each of the 10 hospitals and interview these 50 * 10 = 500 regarding their job satisfaction. This is an example of "Stratified Sampling", in which EACH HOSPITAL is a "Stratum".
     
 ## EACH of the "Probability Sampling Plans", if applied CORRECTLY, are NOT subject to any BIAS, and will produce samples that represent the population well ### 
   
