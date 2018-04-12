@@ -29,4 +29,58 @@ Sampling: Types of Samples
     - Where the individuals that are chosen to participate in the study happen to be in "the right place at the right time" to suit the schedule of the researcher 
     - There are subtle reasons why the sample's results are BIASED, as certain types of individuals are more likely to be selected than others 
 
+  3. Sampling Frame 
+    - A list of the items or people forming a population from which a sample is taken
+    - The "Sampling Frame" needs to match the population of interest as closely as possible, otherwise there can be bias in the study 
+    
+  4. Systematic Sampling 
+    - Where the individuals that are chosen to participate in the study are selected from an "Ordered Sampling Frame"
+    - Ex: Obtain a student directory with email addresses of all the university's students, and send the music poll to every 50th name on the list
+    - This method of sampling is not subject to any clear bias, but it is not as safe as taking a "Random Sample" 
+    
+  5. Simple Random Sample
+    - Where the individuals that are chosen to participate in the study are chosen COMPLETELY at random, and without replacement 
+    - As long as ALL participants respond, then the sample is NOT subject to any BIAS, and should succeed in being representative of the population of interest 
+    - If only a fraction of the participants respond to the study questions, you would have potential problems associated with "Volunteer Response" 
+    - "Volunteer Respnse" isn't as problematic as a "Volunteer Sample", but there is still the danger that the small amount of participants that did respond (i.e. 40%) are different from those who don't  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
  
