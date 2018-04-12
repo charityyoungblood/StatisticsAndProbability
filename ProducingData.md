@@ -74,6 +74,7 @@ Step 2: Study Design
 ## Sample Size ## 
 
   - Our FIRST priority is to make sure the sample is representative of the population, by using some form of probability sampling plan 
+  - To get a more precise idea of what values are taken by the variable of interest for the entire population, a larger sample does a better job, than a smaller one 
 
 
 
