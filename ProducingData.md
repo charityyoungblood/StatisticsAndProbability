@@ -42,7 +42,56 @@ Sampling: Types of Samples
     - Where the individuals that are chosen to participate in the study are chosen COMPLETELY at random, and without replacement 
     - As long as ALL participants respond, then the sample is NOT subject to any BIAS, and should succeed in being representative of the population of interest 
     - If only a fraction of the participants respond to the study questions, you would have potential problems associated with "Volunteer Response" 
-    - "Volunteer Respnse" isn't as problematic as a "Volunteer Sample", but there is still the danger that the small amount of participants that did respond (i.e. 40%) are different from those who don't  
+    - "Volunteer Respnse" isn't as problematic as a "Volunteer Sample", but there is still the danger that the small amount of participants that did respond (i.e. 40%) are different from those who don't 
+    
+Sampling: Probability Sampling Plans 
+
+  1. "Probability Sampling" is where all the individuals within a given population have equal chances of being selected, i.e. "Random Selection"
+  
+  2. Simple Random Sampling
+    - The simplest probability sampling plan
+    - This is equivalent to “selecting names out of a hat”
+    - Each individual has the SAME CHANCE of being selected
+    
+  3. Cluster Sampling 
+    - This sampling technique is used when our population is naturally divided into groups - which are called "Clusters" 
+    - We take a "Random Sample" of "Clusters" and use all the individuals within the selected clusters as our sample 
+  
+  4. Stratified Sampling 
+    - Is used when our population is naturally divided into sub-populations, which we call stratum (plural: strata)
+    - We choose a "Simple Random Sample" from each "Stratum" and our sample consists of all the "Simple Random Samples" put together 
+    
+## EACH of the "Probability Sampling Plans", if applied CORRECTLY, are NOT subject to any BIAS, and will produce samples that represent the population well ### 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
