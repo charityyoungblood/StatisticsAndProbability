@@ -17,7 +17,7 @@ Step 2: Study Design
   
 ## ########################################
 
-Sampling: Types of Samples
+## Sampling: Types of Samples ##
   
   1. Volunteer Sample
     - Where the individuals that are chosen to participate in the study have SELECTED THEMSELVES to be included 
@@ -30,7 +30,7 @@ Sampling: Types of Samples
     - There are subtle reasons why the sample's results are BIASED, as certain types of individuals are more likely to be selected than others 
 
   3. Sampling Frame 
-    - A list of the items or people forming a population from which a sample is taken
+    - A list of potential individuals or items TO BE sampled
     - The "Sampling Frame" needs to match the population of interest as closely as possible, otherwise there can be bias in the study 
     
   4. Systematic Sampling 
@@ -44,7 +44,7 @@ Sampling: Types of Samples
     - If only a fraction of the participants respond to the study questions, you would have potential problems associated with "Volunteer Response" 
     - "Volunteer Respnse" isn't as problematic as a "Volunteer Sample", but there is still the danger that the small amount of participants that did respond (i.e. 40%) are different from those who don't 
     
-Sampling: Probability Sampling Plans 
+## Sampling: Probability Sampling Plans ##
 
   1. "Probability Sampling" is where all the individuals within a given population have equal chances of being selected, i.e. "Random Selection"
   
@@ -70,6 +70,51 @@ Sampling: Probability Sampling Plans
         - Choose a random sample of 50 nurses from each of the 10 hospitals and interview these 50 * 10 = 500 regarding their job satisfaction. This is an example of "Stratified Sampling", in which EACH HOSPITAL is a "Stratum".
     
 ## EACH of the "Probability Sampling Plans", if applied CORRECTLY, are NOT subject to any BIAS, and will produce samples that represent the population well ### 
+
+## Sample Size ## 
+
+  - Our FIRST priority is to make sure the sample is representative of the population, by using some form of probability sampling plan 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
