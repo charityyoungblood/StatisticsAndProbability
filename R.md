@@ -13,7 +13,7 @@
   - Ex: ratings <- get(load("/Users/thebargaintrendsetter/Desktop/Statistics/schoolRatings.RData"))
   
 3. To Extract (View) a Specific Variable Data Frame 
-  ## A Data Frame is the title of your data file in lower case ##
+  ## A Data Frame is the title of your data file in lower case letters ##
   - Insert $ to identify the desired variable (column title) within the data frame
   - We use the name of our file with the $ followed by the Column Name
   - nameOfDataFile$ColumnName
@@ -58,7 +58,7 @@
   - We do this by adding "parameter breaks" in the hist() command; the example below shows 8 breaks 
     hist(actor_age$Age, breaks=8, xlab="Age of Best Actor Oscar Winners (1970-2013)", main="")
 
-## R Commands for Descriptive Statistics ## 
+## R Commands ## 
 
 1. R-Commands - Five Number Summary 
     summary(dataFrameName$ColumnTitle)
@@ -110,6 +110,9 @@
 16. R-Command - Two-Way Table (and Conditional Percentages)
     tbl = table(data.frame(dataFrameName$x,dataFrameName$y)); tbl
     100*tbl/rowSums(tbl)
+    
+17. R-Command - Simple Random Sample (Taken from data set)
+    random_sample = dataFrameName[sample(length(dataFrameName$FirstColumnTitle),sizeOfSampleAsInteger),];random_sample
 
 ## Scatterplot in R ## 
 

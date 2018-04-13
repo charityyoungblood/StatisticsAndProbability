@@ -3,8 +3,6 @@
 - After we have chosen the population for our study, we have to choose the "Sample" 
 - Once we have chosen the sample, we can collect the data 
 
-
-
 ## Steps for Producing Data ## 
 
 Step 1: Sampling 
