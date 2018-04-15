@@ -10,9 +10,18 @@ Types of Study Designs
     - Within "Observational Study Design" are two subtypes:
       - Prospective: In a "Prospective Observational Study" the variables of interest are recorded in a "future" time
       - Retrospective: In a "Retrospective Observational Study" the variables of interest are recorded in a "past" time 
+      
   2. Sample Survey 
     - A type of "Observational Study" where individuals report variables values themselves, frequently by giving their opinions 
   
   3. Experiment
     - In this study design, the researchers interfere, and they are the ones to assign the values of the explanatory variable to the individuals 
     - The researchers "take control" of the values of the explanatory variable because they want to see how changes in the value of the explanatory variable affect the response variable
+    
+## ####################
+
+Causation and Observational Studies 
+
+  1. Because of the existence of a virtually UNLIMITED number of potential LURKING VARIABLES that we can never be 100% certain of a claim of causation based on an observational study
+  
+  2. If great care is taken to CONTROL for the MOST LIKELY LURKING VARIABLES (and to avoid other pitfalls which we will discuss presently), and if common sense indicates that there is good reason for one variable to cause changes in the other, then researchers may assert that an observational study provides good evidence of causation
