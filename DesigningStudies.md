@@ -25,3 +25,41 @@ Causation and Observational Studies
   1. Because of the existence of a virtually UNLIMITED number of potential LURKING VARIABLES that we can never be 100% certain of a claim of causation based on an observational study
   
   2. If great care is taken to CONTROL for the MOST LIKELY LURKING VARIABLES (and to avoid other pitfalls which we will discuss presently), and if common sense indicates that there is good reason for one variable to cause changes in the other, then researchers may assert that an observational study provides good evidence of causation
+  
+  3. We have a MUCH better chance of accomplishing the goal of establishing causation by carrying out a WELL-DESIGNED EXPERIMENT 
+  
+## ########################
+
+Sample Surveys: Design Issues
+
+  1. Open vs. Closed Questions
+  2. Unbalanced Response Options
+  3. Leading Questions
+  4. Planting Ideas With Questions
+  5. Complicated Questions
+  6. Sensitive Questions
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
