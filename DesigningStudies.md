@@ -33,11 +33,28 @@ Causation and Observational Studies
 Sample Surveys: Design Issues
 
   1. Open vs. Closed Questions
+    - Open questions are less restrictive, but responses are more difficult to summarize.
+    - Closed questions may be biased by the options provided
+    - Closed questions should permit options such as "other:______" and/or "not sure" if those options may apply
+    
   2. Unbalanced Response Options
+    
   3. Leading Questions
+    - Earlier questions should not deliberately influence responses to later questions
+    
   4. Planting Ideas With Questions
+    - Questions should be worded neutrally
+
   5. Complicated Questions
+    - Questions shouldn't be confusing or complicated
+    
   6. Sensitive Questions
+    - Survey method and questions should be carefully designed to elicit honest responses if there are sensitive issues involved
+  
+- Effective techniques for collecting accurate data on "sensitive questions" are a main inquiry in Statistics 
+- One simple method is "Randomized Response" - which allows individuals in the sample to answer anonymously, while the researcher still gains information about the population 
+- Tactful wording of questions is also a helpful method for sensitive questions 
+
   
   
   
