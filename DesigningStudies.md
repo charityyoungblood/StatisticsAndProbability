@@ -55,6 +55,40 @@ Sample Surveys: Design Issues
 - One simple method is "Randomized Response" - which allows individuals in the sample to answer anonymously, while the researcher still gains information about the population 
 - Tactful wording of questions is also a helpful method for sensitive questions 
 
+## ###############################################
+
+Causation and Experiments 
+
+  1. Terms used in experiments
+    - Factor: this is the same as the "Explanatory Variable" 
+    - Treatments: The different imposed values of the Explanatory Variable
+    - Treatment Groups: The groups receiving different treatments 
+    - Control Group: The individuals on whom NO TREATMENT was imposed 
+    - Subjects: Human participants in an experiment 
+    
+  2. As mentioned in our discussion of why lurking variables prevent us from establishing causation in observational studies, ELIMINIATING all other differences among treatment groups will be the key to ASSERTING CAUSATION via an experiment
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
