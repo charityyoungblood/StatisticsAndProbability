@@ -67,6 +67,14 @@ Causation and Experiments
     - Subjects: Human participants in an experiment 
     
   2. As mentioned in our discussion of why lurking variables prevent us from establishing causation in observational studies, ELIMINIATING all other differences among treatment groups will be the key to ASSERTING CAUSATION via an experiment
+  
+  3. Random Assignment to Treatments is the best way to prevent treatment groups of individuals from differing from each other in ways other than the treatment assigned 
+    - Either computer software or tables can be utilized to accomplish "Random Assignment" 
+  
+  4. Randomized Controlled Experiment 
+    - Here researchers control values of the explanatory variable with a randomization procedure 
+    - Under random assignment the groups should NOT differ significantly with respect to any potential lurking variables 
+    - Then, if we see 
 
   
   
