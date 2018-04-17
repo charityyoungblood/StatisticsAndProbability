@@ -74,7 +74,8 @@ Causation and Experiments
   4. Randomized Controlled Experiment 
     - Here researchers control values of the explanatory variable with a randomization procedure 
     - Under random assignment the groups should NOT differ significantly with respect to any potential lurking variables 
-    - Then, if we see 
+    - Then, if we see a relationship between the explanatory and response variables, we have evidence that it is a CASUAL one
+    - In a Randomized Controlled Experiment, a randomization procedure may be used in two phases 
 
   
   

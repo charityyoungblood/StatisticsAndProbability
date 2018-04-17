@@ -38,7 +38,7 @@
        
 ## Two-Way Table (C -> C) ### 
 
-  1. To summarize the relationship between two categorical variables, we create a "Two-Way Table"
+  1. To summarize the relationship between TWO CATEGORICAL VARIABLES, we create a "Two-Way Table"
       - This looks similar to a frequency table or Excel worksheet 
   
   2. When using a Two-Way table, don't compare the EXACT count, UNLESS the obervations are even between both groups (i.e. if you have a sample of 560 females and 780 males)
