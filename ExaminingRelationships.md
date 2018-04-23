@@ -35,7 +35,15 @@
 
   1. To examine the relationship between two variables where the EXPLANATORY VARIABLE is CATEGORICAL and the RESPONSE VARIABLE is QUANTITATIVE we use "Side-By-Side Boxplots" 
   2. The "Side-By-Side" Boxplots allow us to compare the distribution of calorie counts within each category of the Explanatory variable 
+  
+    ## EXAMPLE OF INTERPRETING THE BOXPLOT DISPLAYS ## 
+
+      Based upon the side-by-side boxplots, the distribution of ages and hours per week of computer use appears the same in each of the three treatment groups. Similarly, the table of conditional percents suggests that the distribution of the genders is about the same in all three treatment groups.
        
+    ## EXAMPLE OF HOW TO SUMMARIZE FINDINGS FOR RANDOMIZATION ## 
+    
+      Our results suggest that the distributions of age, gender, and hours per week of computer use among the three treatments are about the same; therefore, the randomization was successful in balancing these three potential lurking variables among the three treatment groups. We can be fairly sure that any difference between the treatment groups that we find on the user tests of the software will be due to differences in the three software versions, rather than the lurking variables of age, gender, and hours per week of computer use.
+      
 ## Two-Way Table (C -> C) ### 
 
   1. To summarize the relationship between TWO CATEGORICAL VARIABLES, we create a "Two-Way Table"
